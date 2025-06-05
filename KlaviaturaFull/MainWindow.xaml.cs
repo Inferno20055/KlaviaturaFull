@@ -145,11 +145,8 @@ namespace KlaviaturaFull
         {
             string[] sampleTexts = new string[]
             {
-            "Пример текста 1",
-            "Случайный текст 2",
-            "Вот такой рандомный текст",
-            "Тестовая строка",
-            "Еще один пример"
+            "very very good",
+            "eeeefarderion na  na na",
             };
 
             Random rnd = new Random();
